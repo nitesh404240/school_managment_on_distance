@@ -44,7 +44,7 @@ school-management-api/
 └── README.md
 Installation
 Clone Repository
-git clone https://github.com/YOUR_USERNAME/school-management-api.git
+git clone https://github.com/nitesh404240/school-managment_on_distance.git
 Navigate to Project
 cd school-management-api
 Install Dependencies
